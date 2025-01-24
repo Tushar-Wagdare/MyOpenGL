@@ -747,5 +747,9 @@
     <None Include="shaders\diffuse.fs" />
     <None Include="shaders\phong.vs" />
     <None Include="shaders\phong.fs" />
+    <None Include="shaders\lighting_maps.vs" />
+    <None Include="shaders\lighting_maps.fs" />
+    <None Include="shaders\light_cube.vs" />
+    <None Include="shaders\light_cube.fs" />
   </ItemGroup>
 </Project>

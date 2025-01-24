@@ -394,6 +394,10 @@
     <None Include="glm\gtx\texture.inl" />
     <None Include="shaders\diffuse.fs" />
     <None Include="shaders\diffuse.vs" />
+    <None Include="shaders\lighting_maps.fs" />
+    <None Include="shaders\lighting_maps.vs" />
+    <None Include="shaders\light_cube.fs" />
+    <None Include="shaders\light_cube.vs" />
     <None Include="shaders\phong.fs" />
     <None Include="shaders\phong.vs" />
   </ItemGroup>
