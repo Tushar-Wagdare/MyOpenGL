@@ -249,8 +249,7 @@ int WINAPI WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, LPSTR lpszCmdLi
 
 			ourShader.setVec3("uLightAmbient", glm::vec4(0.1f, 0.1f, 0.1f, 1.0f));
 			ourShader.setVec3("uLightDiffuse", glm::vec4(1.0f, 1.0f, 1.0f, 1.0f));
-			ourShader.setVec3("
-				", glm::vec4(1.0f, 1.0f, 1.0f, 1.0f));
+			ourShader.setVec3("uLightSpecular", glm::vec4(1.0f, 1.0f, 1.0f, 1.0f));
 			ourShader.setVec3("uLightPosition", glm::vec4(1.2f, 1.0f, 2.0f, 1.0f));
 
 			ourShader.setVec3("uMaterialAmbient", glm::vec4(0.0f, 0.0f, 0.0f, 1.0f));

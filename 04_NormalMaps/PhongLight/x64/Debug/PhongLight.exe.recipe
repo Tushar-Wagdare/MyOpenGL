@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>C:\Users\tusha\Desktop\MyOpenGL\02_BasicLighting\PhongLight\x64\Debug\PhongLight.exe</FullPath>
+      <FullPath>C:\Users\tusha\Desktop\MyOpenGL\04_NormalMaps\x64\Debug\PhongLight.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />
